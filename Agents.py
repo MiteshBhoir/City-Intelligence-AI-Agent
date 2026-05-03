@@ -17,7 +17,7 @@ from tavily import TavilyClient
 @tool
 def get_weather(city: str) -> str:
     """Get current weather of a city"""
-    API_KEY = "d6b8cb172f544b98566d8c5834606555"
+    API_KEY = os.getenv("OPENWEATHER_API_KEY")
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={API_KEY}&units=metric"
     response = requests.get(url)
     data = response.json()
