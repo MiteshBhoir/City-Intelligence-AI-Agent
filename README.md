@@ -111,6 +111,7 @@ Create a `.env` file:
 ```env
 OPENWEATHER_API_KEY=your_openweather_api_key
 TAVILY_API_KEY=your_tavily_api_key
+MISTRAL_API_KEY=Your api key
 ```
 
 ---
