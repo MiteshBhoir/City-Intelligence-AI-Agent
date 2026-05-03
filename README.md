@@ -37,7 +37,7 @@ Built with **LangChain + Mistral + Streamlit**, this project demonstrates how to
 
 ## 🧠 How It Works
 
-<img width="1588" height="1536" alt="Gemini_Generated_Image_rysny1rysny1rysn" src="https://github.com/user-attachments/assets/620e7bf6-03c2-4dda-9593-5cfb28b7edfb" />
+<img width="1200" height="1536" alt="Gemini_Generated_Image_rysny1rysny1rysn" src="https://github.com/user-attachments/assets/620e7bf6-03c2-4dda-9593-5cfb28b7edfb" />
 
 ---
 👉 The agent:
